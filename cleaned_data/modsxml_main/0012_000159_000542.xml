@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000159_000542</identifier>
+   <titleInfo supplied="yes">
+      <title>CBS Captiol Cloakroom #???? (Nixon's campaign)</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>July 13, 1968</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1968-07-13</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028633">sound recordings</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300417312">open reel audiotapes</form>
+      <extent>23 minutes, 25 seconds</extent>
+   </physicalDescription>
+   <note>No issues.</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85140410">
+      <topic>United States--Politics and government</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79018757">
+      <name>
+         <namePart>Nixon, Richard M. (Richard Milhous), 1913-1994</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Howard Baker Audiovisual Materials</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Papers of Howard H. Baker, Jr., 1964 - 1987</title>
+      </titleInfo>
+      <identifier>MPA.0101</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
