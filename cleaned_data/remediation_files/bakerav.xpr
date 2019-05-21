@@ -10,21 +10,6 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>modscollection_sideB.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>bakerAV</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>modscollection_sideA.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -40,7 +25,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>modscollection_overallOBJ.xml</String>
+                                    <String>modscollection_sideB.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
