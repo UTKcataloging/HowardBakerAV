@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_000159_000573</identifier>
    <titleInfo supplied="yes">
-      <title>Radio show, "Salute to the States" </title>
+      <title>Radio show, "Salute to the States"</title>
    </titleInfo>
    <abstract>Recording includes music and guests, including Baker, that relate to Tennessee.</abstract>
    <originInfo>
@@ -49,6 +49,7 @@
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
+   <accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
