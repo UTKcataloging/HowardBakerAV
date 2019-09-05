@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="pid">bakerav:2</identifier>
 <identifier type="local">0012_000159_000549_0001</identifier>
  <titleInfo supplied="yes"><title>Everett McKinley Dirksen memorial service and commentaries</title></titleInfo>
 
@@ -22,8 +23,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:42</identifier>
 <identifier type="local">0012_000159_000553_0001</identifier>
  <titleInfo supplied="yes"><title>David Susskind show guests: Baker, B. Moyers, J. Kilpatrick, J. Galbraith, and C. Alexander</title></titleInfo>
 <abstract>This recording focuses on evaluating Nixon's first year as President.</abstract>
@@ -46,8 +49,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:47</identifier>
 <identifier type="local">0012_000159_000573_0001</identifier>
  <titleInfo supplied="yes"><title>Radio show, "Salute to the States"</title></titleInfo>
 <abstract>Recording includes music and guests, including Baker, that relate to Tennessee.</abstract>
@@ -70,8 +75,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:75</identifier>
 <identifier type="local">0012_000159_000600_0001</identifier>
  <titleInfo supplied="yes"><title>Senator Howard Baker "Issues and answers" / John Dean Howard Baker interviews (6/27/73)</title></titleInfo>
 
@@ -94,8 +101,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:141</identifier>
 <identifier type="local">0012_003587_000450_0001</identifier>
  <titleInfo supplied="yes"><title>Reading of unidentified book, Spanish, and music</title></titleInfo>
 
@@ -118,10 +127,12 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:98</identifier>
 <identifier type="local">0012_000159_000622_0001</identifier>
- <titleInfo supplied="yes"><title>From Washington, interviews and commentatareis on PBS and cable</title></titleInfo>
+ <titleInfo supplied="yes"><title>From Washington, interviews and commentaries on PBS and cable</title></titleInfo>
 
 <originInfo><dateCreated>1962-2003</dateCreated><dateCreated encoding="edtf" point="start" keyDate="yes">1962</dateCreated><dateCreated encoding="edtf" point="end">2003</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300028633">sound recordings</form>
@@ -142,8 +153,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:101</identifier>
 <identifier type="local">0012_000159_000624_0001</identifier>
  <titleInfo supplied="yes"><title>Cissy Baker's general impressions of Baker's presidential campaign</title></titleInfo>
 
@@ -166,8 +179,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:278</identifier>
 <identifier type="local">0012_000159_000625_0001</identifier>
  <titleInfo supplied="yes"><title>Baker and Cuomo radio "Viewpoints"</title></titleInfo>
 
@@ -190,8 +205,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:107</identifier>
 <identifier type="local">0012_000159_000628_0001</identifier>
  <titleInfo supplied="yes"><title>Baker speaking at McDonald's conference</title></titleInfo>
 <abstract>Topics include public policy changes and revenue resources.</abstract>
@@ -214,8 +231,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:269</identifier>
 <identifier type="local">0012_000159_000629_0001</identifier>
  <titleInfo supplied="yes"><title>Baker at Friday press breakfast</title></titleInfo>
 <abstract>Topics include the tax reform bill, upcoming election, and apartheid.</abstract>
@@ -238,8 +257,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:311</identifier>
 <identifier type="local">0012_000159_000630_0001</identifier>
  <titleInfo supplied="yes"><title>Baker speaking to summer interns</title></titleInfo>
 <abstract>Topics include the Strategic Defense Initiative (SDI), deficit spending, and medical aid.</abstract>
@@ -262,8 +283,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">null</identifier>
 <identifier type="local">0012_000159_000632_0001</identifier>
  <titleInfo supplied="yes"><title>Baker speaking at the closing general session of the Congress of Cities and Expositions in San Antonio</title></titleInfo>
 <abstract>Topics covered include the Iran Contra Affair, budget, arms control, and summits.</abstract>
@@ -286,8 +309,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:274</identifier>
 <identifier type="local">0012_000159_000633_0001</identifier>
  <titleInfo supplied="yes"><title>Baker giving commencement speech at Plymouth State College? in New Hampshire</title></titleInfo>
 
@@ -310,8 +335,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Papers of Howard H. Baker, Jr., 1964 - 1987</title></titleInfo><identifier>MPA.0101</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:144</identifier>
 <identifier type="local">0012_003587_000452_0001</identifier>
  <titleInfo supplied="yes"><title>Louella Dirksen PEO, Pekin 09/73</title></titleInfo>
 
@@ -334,8 +361,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:146</identifier>
 <identifier type="local">0012_003587_000453_0001</identifier>
  <titleInfo supplied="yes"><title>Capital close-ups of Panama Canal Treaty and interview with Senator Orrin Hatch</title></titleInfo>
 
@@ -358,8 +387,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:148</identifier>
 <identifier type="local">0012_003587_000454_0001</identifier>
  <titleInfo supplied="yes"><title>The era and the Constitution: interview with Orrin Hatch</title></titleInfo>
 
@@ -382,8 +413,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:153</identifier>
 <identifier type="local">0012_003587_000458_0001</identifier>
  <titleInfo supplied="yes"><title>Senator Baker Kiwanis Club</title></titleInfo>
 
@@ -406,8 +439,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:160</identifier>
 <identifier type="local">0012_003587_000464_0001</identifier>
  <titleInfo supplied="yes"><title>Senator Howard Baker Jr. interviewed by Dr. Kim McBride</title></titleInfo>
 
@@ -430,8 +465,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:275</identifier>
 <identifier type="local">0012_003587_000465_0001</identifier>
  <titleInfo supplied="yes"><title>AM meeting</title></titleInfo>
 
@@ -454,8 +491,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:164</identifier>
 <identifier type="local">0012_003587_000466_0001</identifier>
  <titleInfo supplied="yes"><title>PM meeting</title></titleInfo>
 
@@ -478,8 +517,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:169</identifier>
 <identifier type="local">0012_003587_000471_0001</identifier>
  <titleInfo supplied="yes"><title>Howard Baker scheduling meetings</title></titleInfo>
 
@@ -502,8 +543,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:273</identifier>
 <identifier type="local">0012_003587_000473_0001</identifier>
  <titleInfo supplied="yes"><title>Baker discussing administrative activities with staff</title></titleInfo>
 
@@ -526,8 +569,10 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods><mods>
+<identifier type="pid">bakerav:272</identifier>
 <identifier type="local">0012_003587_000474_0001</identifier>
  <titleInfo supplied="yes"><title>Baker discussing administrative activities with staff</title></titleInfo>
 
@@ -550,5 +595,6 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>Howard Baker Jr. Addendum</title></titleInfo><identifier>MPA.101.001</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods></modsCollection>
