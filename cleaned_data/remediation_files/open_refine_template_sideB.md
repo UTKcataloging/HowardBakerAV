@@ -13,6 +13,7 @@
 
 ```
 <mods>
+<identifier type="pid">{{cells['PID_B'].value}}</identifier>
 <identifier type="local">{{cells['adminDB_B'].value}}</identifier>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} {{if(isBlank(cells['supplied_title'].value), '', '<titleInfo supplied="yes"><title>' + cells['supplied_title'].value + '</title></titleInfo>')}}
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
@@ -35,6 +36,7 @@
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>{{cells['archival_collection'].value}}</title></titleInfo><identifier>{{cells['collection_identifier'].value}}</identifier></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+{{if(isBlank(cells['access_note'].value), '', '<accessCondition type="restriction on access">This item can only be accessed on the University of Tennessee (Knoxville) campus</accessCondition>')}}
 <accessCondition type="use and reproduction" xlink:href="{{cells['rights_URI'].value}}">{{cells['rights'].value}}</accessCondition>
 </mods>
 ```
