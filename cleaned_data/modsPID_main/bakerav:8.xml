@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">bakerav:8</identifier>
+   <identifier type="local">0012_000159_000540</identifier>
+   <titleInfo supplied="yes">
+      <title>Radio spots promoting the Peace Corps</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated>February 28, 1968</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1968-02-28</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028633">sound recordings</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300417312">open reel audiotapes</form>
+      <extent>6 minutes, 9 seconds</extent>
+   </physicalDescription>
+   <note>No issues.</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85140410">
+      <topic>United States--Politics and government</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85110431">
+      <topic>Radio advertising</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79099503">
+      <name>
+         <namePart>Peace Corps (U.S.)</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Howard Baker Audiovisual Materials</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Papers of Howard H. Baker, Jr., 1964 - 1987</title>
+      </titleInfo>
+      <identifier>MPA.0101</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2006129900">Howard H. Baker Jr. Center for Public Policy</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
